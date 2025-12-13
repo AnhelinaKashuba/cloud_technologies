@@ -1,0 +1,1 @@
+﻿admin_password = "Strong!pass12345" 
